@@ -49,18 +49,20 @@
 					"QuantityInJoule": "289KJ",
 					"QuantityInCalorie": "68KCal",
 					"Percentage": "23%"
-				}]
+				}],
+				"ViewNutrition": "View nutrition table",
+				"ViewIngredients": "View Ingredients"
 			}],
 			"MaximumPurchaseQuantity": 99,
 			"Name": "Hovis Wholemeal Medium Bread 800G",
-			"OfferPromotion": "",
+			"OfferPromotion": "Buy One Get One Free",
 			"OfferValidity": "",
 			"OfferLabelImagePath": "",
 			"OfferID": "",
 			"OfferValidFrom": "",
 			"OfferValidUntil": "",
 			"Price": 1.00,
-			"PriceDescription": " (£0.13/100g)",
+			"PriceDescription": "£0.13/100g",
 			"ProductId": "255000362",
 			"ProductType": "QuantityOnlyProduct",
 			"IsNew": "False",
@@ -71,7 +73,43 @@
 			"DeleteEnabled": "Y",
 			"Message": "",
 			"UnitType": "100g",
-			"ExtendedInfoUrl": "https://mobile.tesco.com/Embed/product/255000362"
+			"ExtendedInfoUrl": "https://mobile.tesco.com/Embed/product/255000362",
+		"AdditionalInfo": {
+			"Name": "Additional Information",
+			"Description": "Made with rice flour, potato flour and topics flour, filled and topped with Belgian dark chocolate buttercream and finished with chocolate decorations.",
+			"Origin": "Country of origin",
+			"Preparation": "Preparation & Usage",
+			"Address":"Name & Address",
+			"Warning": "Safety & Warning"
+		},
+
+		"MoreInfo": {
+			"Name": "Every Little Helps",
+			"Description": "Made with rice flour, potato flour and topics flour, filled and topped with Belgian dark chocolate buttercream and finished with chocolate decorations.\n\nFilled with rich dark Begian chocolate buttercream. Our soft free egg sponge is made with gluten free flour. Its drizzled with a brown sugar soak so it’s deliciously moist, then filled with intense Belgian dark chocolate buttercream"
+		},
+
+		"Reviews": {
+			"Name": "Customer Reviews",
+			"Rating": 5,
+			"Basedon": 12,
+			"Count": 56,
+			"Review": [{
+				"Title": "Yummmmy",
+				"Rating": 5,
+				"Date": "22 sep 2015",
+				"CustomerName": "Alice",
+				"Description": "Got this for a friend visiting and it was a great buy. Very moist and squidgy. A lovely cake"
+
+			}, {
+				"Title": "Excellent",
+				"Rating": 5,
+				"Date": "18 sep 2015",
+				"CustomerName": "Sam",
+				"Description": "Stayed for two days upon opening and tested yummy! Key is not to put in fridge."
+			}]
+		}
+
+
 		}
 
 	]
