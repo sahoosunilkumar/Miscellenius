@@ -1,0 +1,100 @@
+{
+	"version": "1",
+	"appstores": [{
+			"name": "Play Store",
+			"link": "https://play.google.com/store/apps/category/GAME",
+			"imageUrl": ""
+		},
+		{
+			"name": "SlideME",
+			"link": "http://slideme.org/applications",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/slideme.png"
+		},
+		{
+			"name": "Amazon Appstore",
+			"link": "https://www.amazon.com/Games/b/ref=sv_mas_7?ie=UTF8&node=9209902011",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/amazon.png"
+		},
+		{
+			"name": "1Mobile Market",
+			"link": "http://www.1mobile.com/",
+			"imageUrl": ""
+		},
+		{
+			"name": "Mobile9",
+			"link": "http://gallery.mobile9.com/c/games/1/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/logo_mobile9.png"
+		},
+		{
+			"name": "Opera Mobile Store",
+			"link": "http://apps.opera.com/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/opera.png"
+		},
+		{
+			"name": "Mobango",
+			"link": "https://www.mobango.com/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/mobango.png"
+		},
+		{
+			"name": "FDroid",
+			"link": "https://f-droid.org/packages/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/fdroid.png"
+		},
+		{
+			"name": "GetJar",
+			"link": "https://www.getjar.com/categories/all-games/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/getjar.png"
+		},
+		{
+			"name": "Gamepad",
+			"link": "http://androidgamepadgames.com/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/androidgamepadgames.png"
+		},
+		{
+			"name": "Game Loft",
+			"link": "http://www.gameloft.com/android-games/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/game_loft.png"
+		},
+		{
+			"name": "Mini Clip",
+			"link": "http://www.miniclip.com/games/genre-503/android/en/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/miniclip.png"
+		},
+		{
+			"name": "Y8",
+			"link": "http://www.y8.com/tags/android_game",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/y8.png"
+		},
+		{
+			"name": "Iwin",
+			"link": "http://www.iwin.com/online-games",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/iwin.png"
+		},
+		{
+			"name": "Android Free Game",
+			"link": "http://www.androidfreedownload.net/android-games-online",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/android_free_download.png"
+		},
+		{
+			"name": "Game House",
+			"link": "http://www.gamehouse.com/online-top-100-games?platform=online-games",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/game_house.png"
+		},
+		{
+			"name": "My Real Game",
+			"link": "http://m.myrealgames.com/",
+			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/my_real_game.png"
+		}
+	],
+	"games": [{
+			"name": "mini",
+			"link": "MINI",
+			"imageUrl": "Vanessa"
+		},
+		{
+			"name": "mini",
+			"link": "MINI",
+			"imageUrl": "Vanessa"
+		}
+	]
+}
