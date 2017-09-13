@@ -8,12 +8,12 @@
 		{
 			"name": "SlideME",
 			"link": "http://slideme.org/applications",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/slideme.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/slideme.png"
 		},
 		{
 			"name": "Amazon Appstore",
 			"link": "https://www.amazon.com/Games/b/ref=sv_mas_7?ie=UTF8&node=9209902011",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/amazon.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/amazon.png"
 		},
 		{
 			"name": "1Mobile Market",
@@ -23,78 +23,159 @@
 		{
 			"name": "Mobile9",
 			"link": "http://gallery.mobile9.com/c/games/1/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/logo_mobile9.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/logo_mobile9.png"
 		},
 		{
 			"name": "Opera Mobile Store",
 			"link": "http://apps.opera.com/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/opera.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/opera.png"
 		},
 		{
 			"name": "Mobango",
 			"link": "https://www.mobango.com/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/mobango.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/mobango.png"
 		},
 		{
 			"name": "FDroid",
 			"link": "https://f-droid.org/packages/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/fdroid.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/fdroid.png"
 		},
 		{
 			"name": "GetJar",
 			"link": "https://www.getjar.com/categories/all-games/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/getjar.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/getjar.png"
 		},
 		{
 			"name": "Gamepad",
 			"link": "http://androidgamepadgames.com/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/androidgamepadgames.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/androidgamepadgames.png"
 		},
 		{
 			"name": "Game Loft",
 			"link": "http://www.gameloft.com/android-games/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/game_loft.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/game_loft.png"
 		},
 		{
 			"name": "Mini Clip",
 			"link": "http://www.miniclip.com/games/genre-503/android/en/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/miniclip.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/miniclip.png"
 		},
 		{
 			"name": "Y8",
 			"link": "http://www.y8.com/tags/android_game",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/y8.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/y8.png"
 		},
 		{
 			"name": "Iwin",
 			"link": "http://www.iwin.com/online-games",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/iwin.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/iwin.png"
 		},
 		{
 			"name": "Android Free Game",
 			"link": "http://www.androidfreedownload.net/android-games-online",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/android_free_download.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/android_free_download.png"
 		},
 		{
 			"name": "Game House",
 			"link": "http://www.gamehouse.com/online-top-100-games?platform=online-games",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/game_house.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/game_house.png"
 		},
 		{
 			"name": "My Real Game",
 			"link": "http://m.myrealgames.com/",
-			"imageUrl": "https://github.com/sahoosunilkumar/Miscellenius/blob/master/game_launcher/play_stores/images/my_real_game.png"
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/play_stores/images/my_real_game.png"
 		}
 	],
-	"games": [{
-			"name": "mini",
-			"link": "MINI",
-			"imageUrl": "Vanessa"
+	"games": [
+		{
+			"name": "Amazing 2048",
+			"link": "https://play.google.com/store/apps/details?id=com.sunilsahoo.amazing2048",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/amazing2048.png"
 		},
 		{
-			"name": "mini",
-			"link": "MINI",
-			"imageUrl": "Vanessa"
+			"name": "Pokémon Go",
+			"link": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/pokemon.png"
+		},
+		{
+			"name": "Angry Birds",
+			"link": "https://play.google.com/store/apps/details?id=com.rovio.angrybirds",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/angrybirds.png"
+		},
+		{
+			"name": "Unkilled",
+			"link": "https://play.google.com/store/apps/details?id=com.madfingergames.unkilled&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/unkilled.png"
+		},
+		{
+			"name": "Hearthstone Heroes of Warcraft",
+			"link": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/hearthstone.png"
+		},
+		{
+			"name": "Fallout Shelter",
+			"link": "https://play.google.com/store/apps/details?id=com.bethsoft.falloutshelter&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/fallout_shelter.png"
+		},
+		{
+			"name": "Temple Run",
+			"link": "https://play.google.com/store/apps/details?id=com.imangi.templerun",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/temple_run.png"
+		},
+		{
+			"name": "Math Master",
+			"link": "https://play.google.com/store/apps/details?id=com.sunilsahoo.mathmaster",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/mathmaster.png"
+		},
+		{
+			"name": "Asphalt 8: Airborne",
+			"link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/asphalt.png"
+		},
+		{
+			"name": "Flappy Bird",
+			"link": "https://www.apkmirror.com/apk/gears-studios/flappy-bird/flappy-bird-1-3-release/flappy-bird-1-3-android-apk-download/",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/flappy_bird.png"
+		},
+		{
+			"name": "Drag Racing",
+			"link": "https://play.google.com/store/apps/details?id=com.creativemobile.DragRacing",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/drag_racing.png"
+		},
+		{
+			"name": "PAC-MAN 256 – Endless Maze",
+			"link": "https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/pacman256.png"
+		},
+		{
+			"name": "Triple Town",
+			"link": "https://play.google.com/store/apps/details?id=com.spryfox.tripletown",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/triple_town.png"
+		},
+		{
+			"name": "Traffic Rider",
+			"link": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/traffic_rider.png"
+		},
+		{
+			"name": "TwoDots",
+			"link": "https://play.google.com/store/apps/details?id=com.weplaydots.twodotsandroid&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/two_dots.png"
+		},
+		{
+			"name": "Fruit Ninja Free",
+			"link": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree&amp;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/fruit_ninja.png"
+		},
+		{
+			"name": "Icomania",
+			"link": "https://play.google.com/store/apps/details?id=com.gamesforfriends.icomania&#038;hl=en",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/iconmania.png"
+		},
+		{
+			"name": "Hill Climb Racing",
+			"link": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+			"imageUrl": "https://raw.githubusercontent.com/sahoosunilkumar/Miscellenius/master/game_launcher/games/hillclimbracing.png"
 		}
 	]
 }
