@@ -1,0 +1,602 @@
+[
+ {
+   "SI": 1,
+   "TargetType": 1,
+   "Target": 1000,
+   "Speed": 0.3
+ },
+ {
+   "SI": 2,
+   "TargetType": 1,
+   "Target": 5000,
+   "Speed": 0.3
+ },
+ {
+   "SI": 3,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 0.3
+ },
+ {
+   "SI": 4,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 0.3
+ },
+ {
+   "SI": 5,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 0.3
+ },
+ {
+   "SI": 6,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 0.3
+ },
+ {
+   "SI": 7,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 0.3
+ },
+ {
+   "SI": 8,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 0.3
+ },
+ {
+   "SI": 9,
+   "TargetType": 1,
+   "Target": 5000,
+   "Speed": 0.5
+ },
+ {
+   "SI": 10,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 0.5
+ },
+ {
+   "SI": 11,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 0.5
+ },
+ {
+   "SI": 12,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 0.5
+ },
+ {
+   "SI": 13,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 0.5
+ },
+ {
+   "SI": 14,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 0.5
+ },
+ {
+   "SI": 15,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 0.5
+ },
+ {
+   "SI": 16,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 0.5
+ },
+ {
+   "SI": 17,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 0.5
+ },
+ {
+   "SI": 18,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 0.5
+ },
+ {
+   "SI": 19,
+   "TargetType": 1,
+   "Target": 5000,
+   "Speed": 0.7
+ },
+ {
+   "SI": 20,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 0.7
+ },
+ {
+   "SI": 21,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 0.7
+ },
+ {
+   "SI": 22,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 0.7
+ },
+ {
+   "SI": 23,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 0.7
+ },
+ {
+   "SI": 24,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 0.7
+ },
+ {
+   "SI": 25,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 0.7
+ },
+ {
+   "SI": 26,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 0.7
+ },
+ {
+   "SI": 27,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 0.7
+ },
+ {
+   "SI": 28,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 0.7
+ },
+ {
+   "SI": 29,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 0.7
+ },
+ {
+   "SI": 30,
+   "TargetType": 1,
+   "Target": 5000,
+   "Speed": 0.9
+ },
+ {
+   "SI": 31,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 0.9
+ },
+ {
+   "SI": 32,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 0.9
+ },
+ {
+   "SI": 33,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 0.9
+ },
+ {
+   "SI": 34,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 0.9
+ },
+ {
+   "SI": 35,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 0.9
+ },
+ {
+   "SI": 36,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 0.9
+ },
+ {
+   "SI": 37,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 0.9
+ },
+ {
+   "SI": 38,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 0.9
+ },
+ {
+   "SI": 39,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 0.9
+ },
+ {
+   "SI": 40,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 0.9
+ },
+ {
+   "SI": 41,
+   "TargetType": 1,
+   "Target": 5000,
+   "Speed": 1
+ },
+ {
+   "SI": 42,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 1
+ },
+ {
+   "SI": 43,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 1
+ },
+ {
+   "SI": 44,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 1
+ },
+ {
+   "SI": 45,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 1
+ },
+ {
+   "SI": 46,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 1
+ },
+ {
+   "SI": 47,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 1
+ },
+ {
+   "SI": 48,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 1
+ },
+ {
+   "SI": 49,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 1
+ },
+ {
+   "SI": 50,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 1
+ },
+ {
+   "SI": 51,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 1
+ },
+ {
+   "SI": 52,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 1.2
+ },
+ {
+   "SI": 53,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 1.2
+ },
+ {
+   "SI": 54,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 1.2
+ },
+ {
+   "SI": 55,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 1.2
+ },
+ {
+   "SI": 56,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 1.2
+ },
+ {
+   "SI": 57,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 1.2
+ },
+ {
+   "SI": 58,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 1.2
+ },
+ {
+   "SI": 59,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 1.4
+ },
+ {
+   "SI": 60,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 1.4
+ },
+ {
+   "SI": 61,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 1.4
+ },
+ {
+   "SI": 62,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 1.4
+ },
+ {
+   "SI": 63,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 1.4
+ },
+ {
+   "SI": 64,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 1.4
+ },
+ {
+   "SI": 65,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 1.4
+ },
+ {
+   "SI": 66,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 1.4
+ },
+ {
+   "SI": 67,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 1.4
+ },
+ {
+   "SI": 68,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 1.4
+ },
+ {
+   "SI": 69,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 1.5
+ },
+ {
+   "SI": 70,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 1.5
+ },
+ {
+   "SI": 71,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 1.5
+ },
+ {
+   "SI": 72,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 1.5
+ },
+ {
+   "SI": 73,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 1.5
+ },
+ {
+   "SI": 74,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 1.5
+ },
+ {
+   "SI": 75,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 1.5
+ },
+ {
+   "SI": 76,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 1.5
+ },
+ {
+   "SI": 77,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 1.5
+ },
+ {
+   "SI": 78,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 1.5
+ },
+ {
+   "SI": 79,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 1.8
+ },
+ {
+   "SI": 80,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 1.8
+ },
+ {
+   "SI": 81,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 1.8
+ },
+ {
+   "SI": 82,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 1.8
+ },
+ {
+   "SI": 83,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 1.8
+ },
+ {
+   "SI": 84,
+   "TargetType": 1,
+   "Target": 100000,
+   "Speed": 1.8
+ },
+ {
+   "SI": 85,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 1.8
+ },
+ {
+   "SI": 86,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 1.8
+ },
+ {
+   "SI": 87,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 1.8
+ },
+ {
+   "SI": 88,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 1.8
+ },
+ {
+   "SI": 89,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 1.8
+ },
+ {
+   "SI": 90,
+   "TargetType": 1,
+   "Target": 10000,
+   "Speed": 2
+ },
+ {
+   "SI": 91,
+   "TargetType": 1,
+   "Target": 15000,
+   "Speed": 2
+ },
+ {
+   "SI": 92,
+   "TargetType": 1,
+   "Target": 25000,
+   "Speed": 2
+ },
+ {
+   "SI": 93,
+   "TargetType": 1,
+   "Target": 50000,
+   "Speed": 2
+ },
+ {
+   "SI": 94,
+   "TargetType": 1,
+   "Target": 75000,
+   "Speed": 2
+ },
+ {
+   "SI": 95,
+   "TargetType": 2,
+   "Target": 30,
+   "Speed": 2
+ },
+ {
+   "SI": 96,
+   "TargetType": 2,
+   "Target": 45,
+   "Speed": 2
+ },
+ {
+   "SI": 97,
+   "TargetType": 2,
+   "Target": 60,
+   "Speed": 2
+ },
+ {
+   "SI": 98,
+   "TargetType": 2,
+   "Target": 90,
+   "Speed": 2
+ },
+ {
+   "SI": 99,
+   "TargetType": 3,
+   "Target": -1,
+   "Speed": 2
+ },
+ {
+   "SI": 100,
+   "TargetType": 1,
+   "Target": 100000,
+   "Speed": 2
+ }
+]
